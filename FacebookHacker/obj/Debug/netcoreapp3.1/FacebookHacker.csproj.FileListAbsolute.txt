@@ -1,0 +1,4 @@
+C:\Users\USER\source\repos\FacebookHacker\FacebookHacker\obj\Debug\netcoreapp3.1\FacebookHacker.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\FacebookHacker\FacebookHacker\obj\Debug\netcoreapp3.1\FacebookHacker.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\FacebookHacker\FacebookHacker\obj\Debug\netcoreapp3.1\FacebookHacker.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\FacebookHacker\FacebookHacker\obj\Debug\netcoreapp3.1\FacebookHacker.AssemblyInfo.cs
